@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = miguel.a.lopez1989@gmail.com
+	name = Miguel Lopez
